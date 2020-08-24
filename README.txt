@@ -1,0 +1,1 @@
+This is a simple chat bot for telegram.The bot is able to answer different questions.
